@@ -1,0 +1,13 @@
+{
+    "ServiceName": "hello-w",
+    "SourceConfiguration": {
+        "ImageRepository": {
+            "ImageIdentifier": "944082320565.dkr.ecr.ap-northeast-1.amazonaws.com/hello-repository:latest",
+            "ImageRepositoryType": "ECR_PUBLIC",
+            "ImageConfiguration": {
+                "Port": "8000"
+            }
+        },
+        "AutoDeploymentsEnabled": false
+    }
+}
