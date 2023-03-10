@@ -1,3 +1,6 @@
+# test 2023/03/10
+GCP Cloud Runで動作テスト
+
 # Docks
 https://docs.aws.amazon.com/AmazonECS/latest/developerguide/create-container-image.html
 
